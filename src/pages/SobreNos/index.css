@@ -1,0 +1,27 @@
+.tela h2{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 2px white solid;
+    margin: 0px 40px;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.tela--devName{
+    color: white;
+    text-decoration: none;
+    margin: 20px 40px;
+}
+
+.tela--devName a{
+    text-decoration: 2px underline;
+    color: white;
+    cursor: pointer;
+    transition: all ease 0.3s;
+}
+
+.tela--devName a:hover{
+    color: orange;
+    text-decoration: none;
+}

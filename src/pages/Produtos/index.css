@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&family=Roboto:wght@400;700&display=swap');
+
+.produtos--title{
+    font-size:40px;
+    color: white;
+    padding: 7vh 4vw;
+    font-family: 'Mukta', sans-serif;
+}
+
+p strong{
+    color: orange;
+}
+
+.produtos--text{
+    color: white;
+    margin: 3vh 4vw;
+    font-size: 25px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.produtos--buttons{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.produtos--buttons a{
+    background-color:orange;
+    text-decoration: none;
+    margin: 10vh 0px;
+    padding: 2vh 4vw;
+    font-family: 'Mukta', sans-serif;
+    font-size:20px;
+    border-radius: 15px;
+    color: black;
+    transition: all ease 0.3s;
+}
+
+.produtos--buttons a:hover{
+    background-color:white;
+    color: orange;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&family=Roboto:wght@400;700&display=swap');
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    height: auto;
+}
+
+.footer--logo{
+    margin-top: 10vh;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.footer--description{
+    color: white;
+    text-indent: 30px;
+    text-align: justify;
+    margin: 10vh 5vw;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+}
+
+.footer--title{
+    color: white;
+    font-family: 'Mukta', sans-serif;
+    border-bottom: 2px white solid;
+    padding: 0px 10vw;
+}
+
+.footer--nomeDev{
+    color: white;
+    margin: 5vh 0px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+}

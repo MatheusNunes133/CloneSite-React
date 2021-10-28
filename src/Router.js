@@ -7,7 +7,7 @@ import EntreEmContato from './pages/EntreEmContato';
 
 const Routes = ()=>{
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route path="/" component={PaginaInicial} exact />
                 <Route path="/produtos" component={Produtos} exact />

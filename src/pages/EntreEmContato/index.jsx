@@ -12,17 +12,17 @@ export default ()=>{
                 <h3>Preencha o Formulário</h3>
                 <form action="#" method="POST">
                         <div className="forms--item">
-                            <label for="">Nome:</label>
+                            <label>Nome:</label>
                             <input name="nome" placeholder=" Digite seu Nome..." type="text" required="required" />
                         </div>
                         <div className="forms--item">
-                            <label for="">Email:</label>
-                            <input name="email" placeholder=" Digite seu Email..." type="email" required="required" onblur="Validate.email(this)" />
+                            <label>Email:</label>
+                            <input name="email" placeholder=" Digite seu Email..." type="email" required="required"/>
                         </div>
                         <div className="forms--item">
-                            <label for="">Selecione sua Cidade:</label><br />
+                            <label>Selecione sua Cidade:</label><br />
                             <select name="Cidade" required="required">
-                                <option value="" selected="selected">Selecione</option>
+                                <option defaultValue="Selected">Selecione</option>
                                 <option value="São José de Piranhas-PB">São José de Piranhas-PB</option>
                                 <option value="Cajazeiras-PB">Cajazeiras-PB</option>
                                 <option value="Sousa-PB">Sousa-PB</option>
@@ -34,8 +34,8 @@ export default ()=>{
                             </select>
                         </div>
                         <div className="forms--item">
-                            <label for="">Mande uma Mensagem:</label><br/>
-                            <textarea name="Mensagem" required="required" placeholder=" Escreva uma mensagem..." maxlength="1000"></textarea>
+                            <label>Mande uma Mensagem:</label><br/>
+                            <textarea name="Mensagem" required="required" placeholder=" Escreva uma mensagem..." maxLength="1000"></textarea>
                         </div>
                         <div className="forms--button">
                             <input type="submit" value="ENVIAR" />

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MatheusNunes133/CloneSite-React/static/css/main.8c912b92.chunk.css",
+    "main.js": "/MatheusNunes133/CloneSite-React/static/js/main.52a88b48.chunk.js",
+    "main.js.map": "/MatheusNunes133/CloneSite-React/static/js/main.52a88b48.chunk.js.map",
+    "runtime-main.js": "/MatheusNunes133/CloneSite-React/static/js/runtime-main.6d5c7b57.js",
+    "runtime-main.js.map": "/MatheusNunes133/CloneSite-React/static/js/runtime-main.6d5c7b57.js.map",
+    "static/js/2.220d7889.chunk.js": "/MatheusNunes133/CloneSite-React/static/js/2.220d7889.chunk.js",
+    "static/js/2.220d7889.chunk.js.map": "/MatheusNunes133/CloneSite-React/static/js/2.220d7889.chunk.js.map",
+    "index.html": "/MatheusNunes133/CloneSite-React/index.html",
+    "static/css/main.8c912b92.chunk.css.map": "/MatheusNunes133/CloneSite-React/static/css/main.8c912b92.chunk.css.map",
+    "static/js/2.220d7889.chunk.js.LICENSE.txt": "/MatheusNunes133/CloneSite-React/static/js/2.220d7889.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d5c7b57.js",
+    "static/js/2.220d7889.chunk.js",
+    "static/css/main.8c912b92.chunk.css",
+    "static/js/main.52a88b48.chunk.js"
+  ]
+}

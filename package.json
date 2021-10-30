@@ -1,6 +1,6 @@
 {
   "name": "clone_meu_site",
-  "homepage": "CloneSite-React/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

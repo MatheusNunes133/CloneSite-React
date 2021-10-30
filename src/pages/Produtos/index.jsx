@@ -19,7 +19,7 @@ export default ()=>{
                     Veja nossos produtos!
                 </p>
                 <div className="produtos--buttons">
-                    <a href="#">Genuíno Software</a>
+                    <a href="/produtos/genuino-software">Genuíno Software</a>
                     <a href="#">Autêntico Software</a>
                 </div>
             </Tela>

@@ -10,7 +10,7 @@ const Routes = ()=>{
     return(
         <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
-                <Route path="/" component={PaginaInicial} exact />
+                <Route path="/CloneSite-React" component={PaginaInicial} exact />
                 <Route path="/produtos" component={Produtos} exact />
                 <Route path="/desenvolvedores" component={SobreNos} exact />
                 <Route path="/entre-em-contato" component={EntreEmContato} exact />

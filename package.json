@@ -1,6 +1,6 @@
 {
   "name": "clone_meu_site",
-  "homepage": ".",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

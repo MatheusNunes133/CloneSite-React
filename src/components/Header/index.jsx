@@ -11,16 +11,16 @@ export default (props)=>{
                 <nav className="header--menu">
                     <ul>
                         <li>
-                            <a href="/" className={props.spanInicial}>Página Inicial</a>
+                            <a href="/CloneSite-React" className={props.spanInicial}>Página Inicial</a>
                         </li>
                         <li>
-                            <a href="/produtos" className={props.spanProd}>Produtos</a>
+                            <a href="/CloneSite-React/produtos" className={props.spanProd}>Produtos</a>
                         </li>
                         <li>
-                            <a href="/entre-em-contato" className={props.spanContato}>Entre em contato</a>
+                            <a href="/CloneSite-React/entre-em-contato" className={props.spanContato}>Entre em contato</a>
                         </li>
                         <li> 
-                            <a href="/desenvolvedores" className={props.spanDevs}>Desenvolvedores</a>
+                            <a href="/CloneSite-React/desenvolvedores" className={props.spanDevs}>Desenvolvedores</a>
                         </li>
                         
                     </ul>

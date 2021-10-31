@@ -11,7 +11,7 @@ const Routes = ()=>{
         <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route path="/CloneSite-React" component={PaginaInicial} exact />
-                <Route path="/CloneSite-React/produtos" component={Produtos} exact />
+                <Route path="https://matheusnunes133.github.io/CloneSite-React/produtos" component={Produtos} exact />
                 <Route path="/CloneSite-React/desenvolvedores" component={SobreNos} exact />
                 <Route path="/CloneSite-React/entre-em-contato" component={EntreEmContato} exact />
                 <Route path="/CloneSite-React/produtos/genuino-software" component={GenuinoSoftware} exact />
